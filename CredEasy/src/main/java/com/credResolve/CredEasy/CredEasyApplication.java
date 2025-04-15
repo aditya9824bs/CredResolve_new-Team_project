@@ -9,5 +9,7 @@ public class CredEasyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CredEasyApplication.class, args);
 	}
+	
+	
 
 }
