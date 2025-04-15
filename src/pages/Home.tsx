@@ -148,6 +148,7 @@ const Home = () => {
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className=" text-white px-16 py-4 rounded-full font-semibold text-3xl shadow-lg bg-blue-600"
+            
           >
             Request for a loan
           </motion.button>
